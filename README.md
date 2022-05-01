@@ -16,9 +16,13 @@ Based off the group’s research, we hypothesize Linear Regression Model to yiel
 Each group member implemented, and tested a different NLP method. All of the models were tested with a common dataset to analyze common results. 
 
   Timothy Cantu: Long-Short-Term-Memory
+  
   Samuel Hennon: Multinomial Naïve Bayes Model
+  
   Zain Momin: Count Vectorizer with N-Gram
+  
   Stephen Otten: TF-IDF Word Vectorizer with Passive Aggressive Classifier.
+  
   Paul Perryman: Logistic Regression (TFIDF)
 
 ## Results
@@ -33,7 +37,11 @@ Figure #2: Confusion Matrix of Paul Perryman
 
 ## Conclusion
 -Multinomial Naïve Bayes Model trains the fastest but not as as accurate compared to the other models.  
+
 -When using the unigram feature for N-gram is the best methodology.
+
 -Training time took the longest for Long-Short-Term-Memory.
+
 -Based off our findings we found NLP is a very broad field and new findings are coming up frequently.
+
 -Further research is needed for each method to train and test the data further for better accuracy. 
