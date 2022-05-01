@@ -1,6 +1,6 @@
 # Group 1: Using Natural Language Processing to Determine Fake News
 
-## Video Presentation Link: <Link to the Youtube Recording Goes Here, VERY IMPORTANT>
+## Video Presentation Link: <https://youtu.be/W7Nk9N2Hx1c>
 
 ## Abstract
 This Github hosts Group 1's work, research, and all of the significant  details and findings from the project of using NLP approaches to determine Fake News. Background discusses why Group 1 chose the topic of NLP. Purpose states the overall goal behind this project. Hypothesis states the general idea the group had before work began. Methodology shows all the different approaches the group used for the  project. Results shows the outcomes of all the approaches used. Conclusions states the summary of the project’s results and other points of interest.
